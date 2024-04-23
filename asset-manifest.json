@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-board/static/css/main.24eccd1f.css",
-    "main.js": "/react-board/static/js/main.1e86394f.js",
-    "static/media/GmarketSansBold.otf": "/react-board/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
-    "static/media/GmarketSansMedium.otf": "/react-board/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
-    "static/media/GmarketSansLight.otf": "/react-board/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
-    "index.html": "/react-board/index.html",
-    "main.24eccd1f.css.map": "/react-board/static/css/main.24eccd1f.css.map",
-    "main.1e86394f.js.map": "/react-board/static/js/main.1e86394f.js.map"
+    "main.css": "/static/css/main.24eccd1f.css",
+    "main.js": "/static/js/main.de71bc91.js",
+    "static/media/GmarketSansBold.otf": "/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
+    "static/media/GmarketSansMedium.otf": "/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/GmarketSansLight.otf": "/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
+    "index.html": "/index.html",
+    "main.24eccd1f.css.map": "/static/css/main.24eccd1f.css.map",
+    "main.de71bc91.js.map": "/static/js/main.de71bc91.js.map"
   },
   "entrypoints": [
     "static/css/main.24eccd1f.css",
-    "static/js/main.1e86394f.js"
+    "static/js/main.de71bc91.js"
   ]
 }
