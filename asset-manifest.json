@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.24eccd1f.css",
-    "main.js": "/static/js/main.de71bc91.js",
-    "static/media/GmarketSansBold.otf": "/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
-    "static/media/GmarketSansMedium.otf": "/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
-    "static/media/GmarketSansLight.otf": "/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
-    "index.html": "/index.html",
-    "main.24eccd1f.css.map": "/static/css/main.24eccd1f.css.map",
-    "main.de71bc91.js.map": "/static/js/main.de71bc91.js.map"
+    "main.css": "/lottery/static/css/main.24eccd1f.css",
+    "main.js": "/lottery/static/js/main.e3e31174.js",
+    "static/media/GmarketSansBold.otf": "/lottery/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
+    "static/media/GmarketSansMedium.otf": "/lottery/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/GmarketSansLight.otf": "/lottery/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
+    "index.html": "/lottery/index.html",
+    "main.24eccd1f.css.map": "/lottery/static/css/main.24eccd1f.css.map",
+    "main.e3e31174.js.map": "/lottery/static/js/main.e3e31174.js.map"
   },
   "entrypoints": [
     "static/css/main.24eccd1f.css",
-    "static/js/main.de71bc91.js"
+    "static/js/main.e3e31174.js"
   ]
 }
